@@ -1,0 +1,11 @@
+             NOTE:                                        NOTE:  
+
+-> This program will read another .cpp file and give the complete info about the code in that file e.g 
+number of int, floats, char etc variable used if there is any error in the brackets how many function are used etc etc
+	
+-> To run this program properly make sure to have "test program1.cpp" file in your respective folder
+You can also change the name of folder by modifying line num 83 of the program if you want or can ask for which file to open 
+by changing the code a bit
+
+
+***** DO NOT RUN (.exe) FILE FIRST AFTER DOWNLOADING. OPEN THE MAIN CODE FILE AND RUN IT.!! *****
